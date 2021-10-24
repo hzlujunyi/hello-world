@@ -9,7 +9,8 @@
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Remote-rvm: ruby-2.6.6-p146 [wordguess]" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.17.3, Remote-rvm: ruby-2.6.6-p146 [wordguess]) [gem]" level="application" />
   </component>
 </module>
